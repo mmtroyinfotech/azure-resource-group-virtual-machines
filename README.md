@@ -84,13 +84,14 @@ In this tutorial, we will create Microsoft Azure Resource Group and Virtual Mach
 
 - Here's where you setup Vnet(Virtual Network) and Subnet.
 - Best for operating multiple virtual machines to communicate on the same network.
+- You can rename it by clicking create new / type new name / click ok.
+- After name change, click Review + Create. And Click Create. Don't worry bout the rest. That can be change if you decide to create muliple vm's. 
 <p>
 <img src="https://imgur.com/8e9httz.png"/>
 </p>
 
-Select the virtual network (VNet) and subnet where the VM will reside.
-
-Configure public IP and inbound port rules as needed.
-- Review and Create:
-- Review the VM settings and click "Create" to deploy the VM.
-3. Manage and Monitor
+- Virtual Machine will deploy uploading into Resource Group. Everything is stored in Resource Group.
+- Once deployment complete, you can now see vm in vm menu. 
+<p>
+<img src="https://imgur.com/zWlgirm.png"/>
+</p>
