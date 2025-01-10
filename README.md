@@ -14,16 +14,9 @@ In this tutorial, we will create Microsoft Azure Resource Group and Virtual Mach
 
 - Windows 10 Pro, verison 22H2
 
-<h2>High-Level Steps</h2>
+<h2>How-to Steps</h2>
 
 1. Create a Resource Group:
-   Sign into azure portal and type Resource Groups in the search bar, then click on "Resource groups".
-
-- Click on "Create" or "+ Add."
-- Enter a name for your resource group.
-- Select a region where you want to store the resource group's metadata.
-- Click "Review + create" and then "Create" to finalize the creation.
-
 2. Create a Virtual Machine (VM):
    Type Virtual Machines in the search, click on "Virtual machines".
 
@@ -53,7 +46,12 @@ Configure public IP and inbound port rules as needed.
 <img src="https://imgur.com/lcAZ9f4.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Sign into azure portal and type Resource Groups in the search bar.
+- Click on "Resource groups".
+- Click on "Create" or "+ Add."
+- Enter a name for your resource group.
+- Select a region where you want to store the resource group's metadata.
+- Click "Review + create" and then "Create" to finalize the creation.
 </p>
 <br />
 
