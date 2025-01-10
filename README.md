@@ -46,18 +46,23 @@ Sign into azure portal and type Resource Groups in the search bar. Click on "Res
 <p>  
 <img src="https://imgur.com/SXhn5to.png"/>
 </p>
+<p>
+Click on "Create" or "+ Add."
+</p>
 <p> 
 <img src="https://imgur.com/alN5XYF.png"/>
 </p>
+
+- Enter a name for your resource group.
+- Select a region where you want to store the resource group's metadata.
+- Click "Review + create" and then "Create" to finalize the creation.
+
 <p> 
 <img src="https://imgur.com/lcAZ9f4.png"/>
 </p>
 <p>
 
-- Click on "Create" or "+ Add."
-- Enter a name for your resource group.
-- Select a region where you want to store the resource group's metadata.
-- Click "Review + create" and then "Create" to finalize the creation.
+- 
 </p>
 <br />
 
