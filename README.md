@@ -14,17 +14,6 @@ In this tutorial, we will create Microsoft Azure Resource Group and Virtual Mach
 
 - Windows 10 Pro, verison 22H2
 
-
-3. Configure Networking:
-Best for having multiple virtual machine communicate on the same network.
-
-Select the virtual network (VNet) and subnet where the VM will reside.
-
-Configure public IP and inbound port rules as needed.
-- Review and Create:
-- Review the VM settings and click "Create" to deploy the VM.
-3. Manage and Monitor
-  
 <h2>Create a Resource Group:</h2>
 
 - Sign into azure portal and type Resource Groups in the search bar. Click on "Resource groups".
@@ -52,15 +41,21 @@ Configure public IP and inbound port rules as needed.
 <p>
 <img src="https://imgur.com/uMadCp2.png"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 
 - Select "Create" and then "Virtual Machine".
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/StsRCX1.png"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+3. Configure Networking:
+Best for having multiple virtual machine communicate on the same network.
+
+Select the virtual network (VNet) and subnet where the VM will reside.
+
+Configure public IP and inbound port rules as needed.
+- Review and Create:
+- Review the VM settings and click "Create" to deploy the VM.
+3. Manage and Monitor
