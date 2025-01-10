@@ -67,7 +67,8 @@ In this tutorial, we will create Microsoft Azure Resource Group and Virtual Mach
 <img src="https://imgur.com/xQwiq8e.png"/>
 </p>
 
-
+- Check Licensing Box
+- Click Next: Disks
 <p>
 <img src="https://imgur.com/PQAbasA.png"/>
 </p>
