@@ -55,9 +55,8 @@ In this tutorial, we will create Microsoft Azure Resource Group and Virtual Mach
 <img src="https://imgur.com/4W7gvKa.png"/>
 </p>
 
-- Click Resource Group and select the resource group you created prior.
-- Name your Virtual Machine
-- select the same region as the resource group. 
+- Image refer to Operatiing System. Click and choose desired OS.
+- Next pick your size. Recommended 2 or more vcpus. But I think free subscriptions only have 1.
 <p>
 <img src="https://imgur.com/hoziqTj.png"/>
 </p>
