@@ -14,15 +14,6 @@ In this tutorial, we will create Microsoft Azure Resource Group and Virtual Mach
 
 - Windows 10 Pro, verison 22H2
 
-   
-
-- Click on "Create" and select "Virtual machine."
-- Choose your subscription and the resource group you created.
-- Provide a name for the VM.
-- Select the region, availability options, and image (e.g., Windows or Linux).
-- Choose the VM size based on your requirements.
-- Configure the administrator account by setting a username and password.
-- Check the licensing box.
 
 3. Configure Networking:
 Best for having multiple virtual machine communicate on the same network.
@@ -59,7 +50,6 @@ Configure public IP and inbound port rules as needed.
 <img src="https://imgur.com/lcAZ9f4.png"/>
 </p>
 <p>
-
 - 
 </p>
 <br />
