@@ -1,4 +1,3 @@
-# azure-resource-group-virtual-machines
 <p align="center">
 
 </p>
