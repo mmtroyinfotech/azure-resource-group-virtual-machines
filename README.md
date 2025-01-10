@@ -50,13 +50,14 @@ In this tutorial, we will create Microsoft Azure Resource Group and Virtual Mach
 
 - Click Resource Group and select the resource group you created prior.
 - Name your Virtual Machine
-- select the same region as the resource group.
-- 
+- select the same region as the resource group. 
 <p>
 <img src="https://imgur.com/4W7gvKa.png"/>
 </p>
 
-
+- Click Resource Group and select the resource group you created prior.
+- Name your Virtual Machine
+- select the same region as the resource group. 
 <p>
 <img src="https://imgur.com/hoziqTj.png"/>
 </p>
