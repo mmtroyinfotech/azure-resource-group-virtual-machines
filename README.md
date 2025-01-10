@@ -42,12 +42,12 @@ Configure public IP and inbound port rules as needed.
 
 <p>
 <img src="https://imgur.com/SXhn5to.png"/>
+   Sign into azure portal and type Resource Groups in the search bar. Click on "Resource groups".
 <img src="https://imgur.com/alN5XYF.png"/>
 <img src="https://imgur.com/lcAZ9f4.png"/>
 </p>
 <p>
-- Sign into azure portal and type Resource Groups in the search bar.
-- Click on "Resource groups".
+
 - Click on "Create" or "+ Add."
 - Enter a name for your resource group.
 - Select a region where you want to store the resource group's metadata.
