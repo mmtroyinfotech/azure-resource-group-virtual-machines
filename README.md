@@ -45,6 +45,7 @@ In this tutorial, we will create Microsoft Azure Resource Group and Virtual Mach
 - Select "Create" and then "Azure Virtual Machine".
 <p>
 <img src="https://imgur.com/StsRCX1.png"/>
+<img src="https://imgur.com/LEa3Zhe.png"/>
 </p>
 
 <br />
