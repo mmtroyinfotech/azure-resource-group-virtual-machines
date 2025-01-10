@@ -48,6 +48,10 @@ In this tutorial, we will create Microsoft Azure Resource Group and Virtual Mach
 <img src="https://imgur.com/LEa3Zhe.png"/>
 </p>
 
+- Type Virtual Machines in the search, click on "Virtual machines".
+<p>
+<img src="https://imgur.com/uMadCp2.png"/>
+</p>
 <br />
 3. Configure Networking:
 Best for having multiple virtual machine communicate on the same network.
