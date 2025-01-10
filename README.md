@@ -40,15 +40,14 @@ Configure public IP and inbound port rules as needed.
   
 <h2>Actions and Observations</h2>
 
-<p>
-Sign into azure portal and type Resource Groups in the search bar. Click on "Resource groups".
-</p>
+- Sign into azure portal and type Resource Groups in the search bar. Click on "Resource groups".
+  
 <p>  
 <img src="https://imgur.com/SXhn5to.png"/>
 </p>
-<p>
-Click on "Create" or "+ Add."
-</p>
+
+- Click on "Create" or "+ Add."
+
 <p> 
 <img src="https://imgur.com/alN5XYF.png"/>
 </p>
