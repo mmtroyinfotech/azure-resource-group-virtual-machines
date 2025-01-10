@@ -17,8 +17,7 @@ In this tutorial, we will create Microsoft Azure Resource Group and Virtual Mach
 <h2>High-Level Steps</h2>
 
 1. Create a Resource Group:
-   
-Sign into azure portal and type Resource Groups in the search bar, then click on "Resource groups".
+   Sign into azure portal and type Resource Groups in the search bar, then click on "Resource groups".
 
 - Click on "Create" or "+ Add."
 - Enter a name for your resource group.
@@ -26,8 +25,7 @@ Sign into azure portal and type Resource Groups in the search bar, then click on
 - Click "Review + create" and then "Create" to finalize the creation.
 
 2. Create a Virtual Machine (VM):
-   
-Type Virtual Machines in the search, click on "Virtual machines".
+   Type Virtual Machines in the search, click on "Virtual machines".
 
 - Click on "Create" and select "Virtual machine."
 - Choose your subscription and the resource group you created.
