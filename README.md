@@ -61,7 +61,8 @@ In this tutorial, we will create Microsoft Azure Resource Group and Virtual Mach
 <img src="https://imgur.com/hoziqTj.png"/>
 </p>
 
-
+- Create Username and Password
+- Be sure RDP (3389) is selected for inbound ports
 <p>
 <img src="https://imgur.com/xQwiq8e.png"/>
 </p>
