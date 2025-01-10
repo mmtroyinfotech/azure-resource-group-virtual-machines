@@ -42,18 +42,13 @@ Configure public IP and inbound port rules as needed.
 - Enter a name for your resource group.
 - Select a region where you want to store the resource group's metadata.
 - Click "Review + create" and then "Create" to finalize the creation.
-
-<h2>Create a Virtual Machine (VM):</h2>
-
-- Type Virtual Machines in the search, click on "Virtual machines".
 <p> 
 <img src="https://imgur.com/lcAZ9f4.png"/>
 </p>
-<p>
-- 
-</p>
 <br />
+<h2>Create a Virtual Machine (VM):</h2>
 
+- Type Virtual Machines in the search, click on "Virtual machines".
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
