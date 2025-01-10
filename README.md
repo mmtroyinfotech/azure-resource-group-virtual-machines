@@ -94,4 +94,5 @@ In this tutorial, we will create Microsoft Azure Resource Group and Virtual Mach
 - Once deployment complete, you can now see vm in vm menu. 
 <p>
 <img src="https://imgur.com/zWlgirm.png"/>
+<img src="https://imgur.com/EqI6fhL.png"/>
 </p>
