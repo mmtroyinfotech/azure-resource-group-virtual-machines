@@ -48,11 +48,26 @@ In this tutorial, we will create Microsoft Azure Resource Group and Virtual Mach
 <img src="https://imgur.com/LEa3Zhe.png"/>
 </p>
 
-- Fill in the required details such as VM name, image (e.g., Windows Server 2022 Datacenter), and administrator account details.
+- Click Resource Group and select the resource group you created prior.
+- Name your Virtual Machine
+- select the same region as the resource group.
+- 
 <p>
 <img src="https://imgur.com/4W7gvKa.png"/>
+</p>
+
+
+<p>
 <img src="https://imgur.com/hoziqTj.png"/>
+</p>
+
+
+<p>
 <img src="https://imgur.com/xQwiq8e.png"/>
+</p>
+
+
+<p>
 <img src="https://imgur.com/PQAbasA.png"/>
 </p>
 <br />
