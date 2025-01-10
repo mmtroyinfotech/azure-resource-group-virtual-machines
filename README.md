@@ -91,8 +91,10 @@ In this tutorial, we will create Microsoft Azure Resource Group and Virtual Mach
 </p>
 
 - Virtual Machine will deploy uploading into Resource Group. Everything is stored in Resource Group.
-- Once deployment complete, you can now see vm in vm menu. 
+- Once deployment complete, you can now see vm in vm menu. And look to the right, you may also see public ip address.
+  Public ip address will be needed to access vm on remote desktop.
 <p>
 <img src="https://imgur.com/zWlgirm.png"/>
 <img src="https://imgur.com/EqI6fhL.png"/>
 </p>
+<br />
