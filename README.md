@@ -72,6 +72,12 @@ In this tutorial, we will create Microsoft Azure Resource Group and Virtual Mach
 <p>
 <img src="https://imgur.com/PQAbasA.png"/>
 </p>
+
+- Skip Disk Setup
+- Click Next: Networking 
+<p>
+<img src="https://imgur.com/YtXwZWd.png"/>
+</p>
 <br />
 
 3. Configure Networking:
