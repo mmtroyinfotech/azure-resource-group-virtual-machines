@@ -48,7 +48,7 @@ Configure public IP and inbound port rules as needed.
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://imgur.com/aCZITdE.png"/>
+<img src="https://imgur.com/SXhn5to"/>
 <img src="https://imgur.com/alN5XYF.png"/>
 <img src="https://imgur.com/lcAZ9f4.png"/>
 </p>
