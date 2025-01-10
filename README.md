@@ -80,8 +80,13 @@ In this tutorial, we will create Microsoft Azure Resource Group and Virtual Mach
 </p>
 <br />
 
-3. Configure Networking:
-Best for having multiple virtual machine communicate on the same network.
+<h2>Configure Networking:</h2>
+
+- Here's where you setup Vnet(Virtual Network) and Subnet.
+- Best for operating multiple virtual machines to communicate on the same network.
+<p>
+<img src="https://imgur.com/8e9httz.png"/>
+</p>
 
 Select the virtual network (VNet) and subnet where the VM will reside.
 
