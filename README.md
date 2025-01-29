@@ -5,6 +5,8 @@
 <h1>Microsoft Azure Resource Groups and Virtual Machines</h1>
 In this tutorial, we will create Microsoft Azure Resource Group and Virtual Machines. <br />
 
+- ### [YouTube: How to create Microsoft Azure Resource Groups and Virtual Machine](https://www.youtube.com/watch?v=DtBj4cFGuqw)
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure Resource Groups
